@@ -1,2 +1,5 @@
 # HEROES OF PYMOLI
-Analysis folder contains written analysis
+
+Jupyter notebook is in HeroesOfPymoli folder
+Analysis is in HeroesOfPymoli/Analysis folder
+
